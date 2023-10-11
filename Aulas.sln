@@ -17,6 +17,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExHerança", "ExHerança\Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExClassePrivate", "ExClassePrivate\ExClassePrivate.csproj", "{AB59710B-D0B7-4985-B753-B80D5BCE8852}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExInternalTester", "ExInternalTester\ExInternalTester.csproj", "{E3D73164-3E26-4B07-8013-57E6650EC764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExClasseProtected", "ExClasseProtected\ExClasseProtected.csproj", "{9C4E2F5D-9FE8-4C64-BFDD-0F249DF5198D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{AB59710B-D0B7-4985-B753-B80D5BCE8852}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB59710B-D0B7-4985-B753-B80D5BCE8852}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB59710B-D0B7-4985-B753-B80D5BCE8852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3D73164-3E26-4B07-8013-57E6650EC764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D73164-3E26-4B07-8013-57E6650EC764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D73164-3E26-4B07-8013-57E6650EC764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D73164-3E26-4B07-8013-57E6650EC764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C4E2F5D-9FE8-4C64-BFDD-0F249DF5198D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4E2F5D-9FE8-4C64-BFDD-0F249DF5198D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C4E2F5D-9FE8-4C64-BFDD-0F249DF5198D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C4E2F5D-9FE8-4C64-BFDD-0F249DF5198D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
